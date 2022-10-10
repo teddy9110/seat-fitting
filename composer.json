@@ -1,16 +1,12 @@
 {
-    "name": "denngarr/seat-fitting",
+    "name": "teddy9110/seat-fitting",
     "description": "Module to check fittings per character",
     "type": "seat-plugin",
     "license": "GPL-2.0-only",
     "authors": [
         {
-            "name": "Denngarr B'tarn",
-            "email": "ed.stafford@gmail.com"
-        },
-        {
-            "name": "Crypta Electrica",
-            "email": "crypta@crypta.tech"
+            "name": "teddy911",
+            "email": "alexiles1995@gmail.com"
         }
     ],
     "minimum-stability": "stable",
@@ -22,7 +18,7 @@
      "extra": {
         "laravel": {
             "providers": [
-                "Denngarr\\Seat\\Fitting\\FittingServiceProvider"
+                "teddy9110\\Seat\\Fitting\\FittingServiceProvider"
             ]
         }
     },
